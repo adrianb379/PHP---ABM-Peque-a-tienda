@@ -10,63 +10,6 @@
         private $prdPresentacion;
         private $prdImagen;
 
-	public private get$IdProducto() {
-		return this.$idProducto;
-	}
-
-	public void set$IdProducto(private $idProducto) {
-		this.$idProducto = $idProducto;
-	}
-
-	public private get$PrdNombre() {
-		return this.$prdNombre;
-	}
-
-	public void set$PrdNombre(private $prdNombre) {
-		this.$prdNombre = $prdNombre;
-	}
-
-	public private get$PrdPrecio() {
-		return this.$prdPrecio;
-	}
-
-	public void set$PrdPrecio(private $prdPrecio) {
-		this.$prdPrecio = $prdPrecio;
-	}
-
-	public private get$IdMarca() {
-		return this.$idMarca;
-	}
-
-	public void set$IdMarca(private $idMarca) {
-		this.$idMarca = $idMarca;
-	}
-
-	public private get$IdCategoria() {
-		return this.$idCategoria;
-	}
-
-	public void set$IdCategoria(private $idCategoria) {
-		this.$idCategoria = $idCategoria;
-	}
-
-	public private get$PrdPresentacion() {
-		return this.$prdPresentacion;
-	}
-
-	public void set$PrdPresentacion(private $prdPresentacion) {
-		this.$prdPresentacion = $prdPresentacion;
-	}
-
-	public private get$PrdImagen() {
-		return this.$prdImagen;
-	}
-
-	public void set$PrdImagen(private $prdImagen) {
-		this.$prdImagen = $prdImagen;
-	}
-
-
 
         public function listarProductos()
         {
